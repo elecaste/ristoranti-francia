@@ -1,0 +1,33 @@
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+*.Rproj
+
+# renv
+renv/
+renv.lock
+
+# Local project library (if used)
+.Rlib/
+
+# Heavy plot / rendered outputs
+output/
+figures/
+plots/
+*.png
+*.pdf
+*.svg
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
